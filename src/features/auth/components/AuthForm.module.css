@@ -1,0 +1,11 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  min-height: 250px;
+  min-width: 400px;
+  justify-content: space-around;
+}
+
+label {
+  font-size: 1.5rem;
+}
